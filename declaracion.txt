@@ -1,4 +1,4 @@
-
+﻿
 
 Preámbulo
 Considerando que la libertad, la justicia y la paz en el mundo tienen por base el reconocimiento de la dignidad intrínseca y de los derechos iguales e inalienables de todos los miembros de la familia humana;
@@ -125,3 +125,5 @@ El ultimo articulo de esta declaracion no tiene validez.
 Articulo 45.
 Derecho a clases de calidad en la UAM
 
+Articulo 38.
+Todas las personas tienen el derecho de recibir un paquete de Chocoboms para su cumpleaños.
